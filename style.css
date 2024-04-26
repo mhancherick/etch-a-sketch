@@ -7,6 +7,7 @@
     flex-wrap: wrap;
     height: 960px;
     width: 960px;
+    margin-top: 20px;
   }
   
   .container div {
